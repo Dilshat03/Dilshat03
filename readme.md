@@ -1,5 +1,5 @@
 
-My name is Ayupov Dilshat, developer, 🧑  🎓 student, I love 🏊  ♀ ️ swimming and ⚽ football.
+My name is Ayupov Dilshat, developer, 🧑  🎓 student, I love 🏊 swimming and ⚽ football.
 #### What you should Know about me:
 - I quickly assimilate the material
 - In my free time, I do swimming 🏊  ♀ and write codes 👩  💻
