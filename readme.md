@@ -2,7 +2,7 @@
 My name is Ayupov Dilshat, developer, 🧑  🎓 student, I love 🏊 swimming and ⚽ football.
 #### What you should Know about me:
 - I quickly assimilate the material
-- In my free time, I do swimming 🏊 and write codes 👩  💻
+- In my free time, I do swimming 🏊 and write codes  💻
 - I am constantly progressing 🥇
 - Email me at [dilshataiupov@gmail.com](https://mail.google.com/mail/u/0/?tab=rm#inbox)📧
 - I use BEM
